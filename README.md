@@ -4,7 +4,8 @@
 This project is a multi-layered cloud security prototype that detects anomalous network activity and ensures secure, tamper-proof logging.
 
 ## Architecture
-![Architecture Diagram](architecture.png)
+<img width="1919" height="650" alt="image" src="https://github.com/user-attachments/assets/efc349fa-b48c-431b-9f5f-4aa318d3c75d" />
+
 
 ## Features
 - LSTM-based anomaly detection
